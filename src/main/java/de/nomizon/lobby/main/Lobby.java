@@ -12,7 +12,7 @@ public class Lobby extends JavaPlugin{
 
     @Override
     public void onEnable() {
-
+        System.out.println("Lobby aktiviert!");
     }
 
     @Override
