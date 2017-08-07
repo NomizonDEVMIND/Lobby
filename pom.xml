@@ -14,7 +14,12 @@
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
         </repository>
     </repositories>
+
     <dependencies>
+
+        <!-- scope: -->
+        <!-- provided = API nicht mit bauen/exportieren -->
+        <!-- compile = API mit bauen/exportieren -->
 
         <!--Spigot API-->
         <dependency>

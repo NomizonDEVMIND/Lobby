@@ -1,6 +1,5 @@
 package de.nomizon.lobby.main;
 
-import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
@@ -12,7 +11,7 @@ public class Lobby extends JavaPlugin{
 
     @Override
     public void onEnable() {
-        System.out.println("Lobby aktiviert!");
+
     }
 
     @Override
